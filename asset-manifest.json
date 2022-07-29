@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-jinny/static/css/main.e6f07c9b.css",
+    "main.js": "/portfolio-jinny/static/js/main.c43dfd42.js",
+    "static/media/avatar3.jpg": "/portfolio-jinny/static/media/avatar3.21beb1dda1b5ca293c3b.jpg",
+    "static/media/avatar2.jpg": "/portfolio-jinny/static/media/avatar2.2688819aafdd38fd9491.jpg",
+    "static/media/image-1.jpg": "/portfolio-jinny/static/media/image-1.792c0d536a9f0dc7a521.jpg",
+    "static/media/avatar1.jpg": "/portfolio-jinny/static/media/avatar1.c8d26b6f52012051775e.jpg",
+    "static/media/image-2.jpg": "/portfolio-jinny/static/media/image-2.42bc0673e5e9c9c7cc2a.jpg",
+    "static/media/image-4.jpg": "/portfolio-jinny/static/media/image-4.7d155bd98a219e3a85f8.jpg",
+    "static/media/image-5.jpg": "/portfolio-jinny/static/media/image-5.0aaf89ca14949f35eb26.jpg",
+    "static/media/image-3.jpg": "/portfolio-jinny/static/media/image-3.3bcbe0574c082e27ef12.jpg",
+    "static/media/image-6.jpg": "/portfolio-jinny/static/media/image-6.3240ad9e8ebc90b3fc42.jpg",
+    "static/media/cv.pdf": "/portfolio-jinny/static/media/cv.25a3eca02bda2fe3157e.pdf",
+    "static/media/future-grid.webp": "/portfolio-jinny/static/media/future-grid.99b92916b2efc7194b50.webp",
+    "static/media/me-1.svg": "/portfolio-jinny/static/media/me-1.83c8ab5da7f096316f901040eedd867e.svg",
+    "static/media/me.svg": "/portfolio-jinny/static/media/me.5ab720b5538d5e84edeb80b15b678ba9.svg",
+    "index.html": "/portfolio-jinny/index.html",
+    "main.e6f07c9b.css.map": "/portfolio-jinny/static/css/main.e6f07c9b.css.map",
+    "main.c43dfd42.js.map": "/portfolio-jinny/static/js/main.c43dfd42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f07c9b.css",
+    "static/js/main.c43dfd42.js"
+  ]
+}
