@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio-jinny/static/css/main.2c0878a3.css",
-    "main.js": "/portfolio-jinny/static/js/main.a1d1d322.js",
+    "main.css": "/portfolio-jinny/static/css/main.22e4938f.css",
+    "main.js": "/portfolio-jinny/static/js/main.c42a899e.js",
     "static/media/web-5.png": "/portfolio-jinny/static/media/web-5.d1881d1a3c8bc3e2b89e.png",
     "static/media/web-2.png": "/portfolio-jinny/static/media/web-2.6f31e210c91fc67b5d27.png",
+    "static/media/profile.jpg": "/portfolio-jinny/static/media/profile.8a2308ebbde2ed940b02.jpg",
     "static/media/graphic-4-modal2.jpg": "/portfolio-jinny/static/media/graphic-4-modal2.eae635183a75b1455ed0.jpg",
     "static/media/web-6.png": "/portfolio-jinny/static/media/web-6.2da15faed470e4f90646.png",
     "static/media/web-3.png": "/portfolio-jinny/static/media/web-3.e59b5021906074409bee.png",
@@ -13,13 +14,12 @@
     "static/media/web-8.png": "/portfolio-jinny/static/media/web-8.e357adb606405622b06c.png",
     "static/media/graphic-1.png": "/portfolio-jinny/static/media/graphic-1.1e7f47117978f135bc13.png",
     "static/media/web-4.png": "/portfolio-jinny/static/media/web-4.c64ab6f9f270cc029af9.png",
-    "static/media/image-5.jpg": "/portfolio-jinny/static/media/image-5.0aaf89ca14949f35eb26.jpg",
     "static/media/web-7.png": "/portfolio-jinny/static/media/web-7.7578c91bc173c8d93314.png",
     "static/media/graphic-4-modal.jpg": "/portfolio-jinny/static/media/graphic-4-modal.08bda5a504a77aaf9593.jpg",
     "static/media/graphic-2-modal2.jpg": "/portfolio-jinny/static/media/graphic-2-modal2.b79aa952bf07eac98166.jpg",
     "static/media/graphic-3-modal.jpg": "/portfolio-jinny/static/media/graphic-3-modal.d2bf9973448e2d011e09.jpg",
-    "static/media/image-6.jpg": "/portfolio-jinny/static/media/image-6.3240ad9e8ebc90b3fc42.jpg",
     "static/media/graphic-1-modal2.jpg": "/portfolio-jinny/static/media/graphic-1-modal2.9a7bdc815765e66a9c2b.jpg",
+    "static/media/background_image.png": "/portfolio-jinny/static/media/background_image.f3aafea5ce967370ec76.png",
     "static/media/poster4.jpg": "/portfolio-jinny/static/media/poster4.9bdc349c373817dcc69e.jpg",
     "static/media/graphic-2-modal.jpg": "/portfolio-jinny/static/media/graphic-2-modal.5e26820f8ee5307db278.jpg",
     "static/media/poster6.jpg": "/portfolio-jinny/static/media/poster6.795b1f9d0b2e9b60fe44.jpg",
@@ -43,11 +43,11 @@
     "static/media/html-1.svg": "/portfolio-jinny/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript-1.svg": "/portfolio-jinny/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "index.html": "/portfolio-jinny/index.html",
-    "main.2c0878a3.css.map": "/portfolio-jinny/static/css/main.2c0878a3.css.map",
-    "main.a1d1d322.js.map": "/portfolio-jinny/static/js/main.a1d1d322.js.map"
+    "main.22e4938f.css.map": "/portfolio-jinny/static/css/main.22e4938f.css.map",
+    "main.c42a899e.js.map": "/portfolio-jinny/static/js/main.c42a899e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c0878a3.css",
-    "static/js/main.a1d1d322.js"
+    "static/css/main.22e4938f.css",
+    "static/js/main.c42a899e.js"
   ]
 }
