@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-jinny/static/css/main.22e4938f.css",
-    "main.js": "/portfolio-jinny/static/js/main.c42a899e.js",
+    "main.css": "/portfolio-jinny/static/css/main.58997f21.css",
+    "main.js": "/portfolio-jinny/static/js/main.aa6febf5.js",
     "static/media/web-5.png": "/portfolio-jinny/static/media/web-5.d1881d1a3c8bc3e2b89e.png",
     "static/media/web-2.png": "/portfolio-jinny/static/media/web-2.6f31e210c91fc67b5d27.png",
     "static/media/profile.jpg": "/portfolio-jinny/static/media/profile.8a2308ebbde2ed940b02.jpg",
@@ -43,11 +43,11 @@
     "static/media/html-1.svg": "/portfolio-jinny/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript-1.svg": "/portfolio-jinny/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "index.html": "/portfolio-jinny/index.html",
-    "main.22e4938f.css.map": "/portfolio-jinny/static/css/main.22e4938f.css.map",
-    "main.c42a899e.js.map": "/portfolio-jinny/static/js/main.c42a899e.js.map"
+    "main.58997f21.css.map": "/portfolio-jinny/static/css/main.58997f21.css.map",
+    "main.aa6febf5.js.map": "/portfolio-jinny/static/js/main.aa6febf5.js.map"
   },
   "entrypoints": [
-    "static/css/main.22e4938f.css",
-    "static/js/main.c42a899e.js"
+    "static/css/main.58997f21.css",
+    "static/js/main.aa6febf5.js"
   ]
 }
